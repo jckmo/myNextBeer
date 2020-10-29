@@ -1,7 +1,7 @@
-[submodule "beers-frontend"]
- 	path = beers-frontend
- 	url = https://github.com/jackismoe/beers-frontend
 [submodule "beers-backend"]
  	path = beers-backend
  	url = https://github.com/jackismoe/beers-backend
    
+[submodule "beers-frontend"]
+ 	path = beers-frontend
+ 	url = https://github.com/jackismoe/beers-frontend
