@@ -4,6 +4,13 @@ In case Sub-Module links are broken
 * Frontend
   - https://github.com/jackismoe/beers-frontend
 
+# myNextBeer
+- this is a random beer generator with user functionality.
+- to begin, clone repository and begin server with `rails s` from the beers-backend directory at port `:3000`.
+- after, `open index.html` from the beers-frontend directory.
+Enjoy!
+
+
 # JavaScript Project Instructions
 - Overview
 - Objectives
